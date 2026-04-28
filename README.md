@@ -1,4 +1,3 @@
-# Personalised-Asset-Advisory-for-Investors-Using-Recommendation-Systems
 # Personalised Asset Advisory using Recommendation Systems
 
 ## Overview
